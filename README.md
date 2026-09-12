@@ -36,11 +36,12 @@ Also on Drive: https://drive.google.com/file/d/1TjrLGKwhWePanWTuiEoP7M-SCU0Ue-3g
 
 - **Hub (Linktree):** https://linktr.ee/LathosWorld
 - **Buy on Flap:** https://flap.sh/bnb/0x3899ebf76c768c156df3073031a4518c5f947777
+- **Telegram (official updates):** https://t.me/LathosWorldOfficial
 - **YouTube:** https://www.youtube.com/@lathos563
 - **Twitch:** https://www.twitch.tv/lathosworld
 - **X:** https://x.com/lathos563
 - **Instagram:** https://www.instagram.com/lathosworld
-- **Discord:** https://discord.gg/WxArqBYVS
+- **Discord:** https://discord.gg/749tHdsFU6
 - **Farcaster:** https://farcaster.xyz/lathos-stormcrow
 
 ## Who
