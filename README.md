@@ -22,15 +22,17 @@ Not financial advice. Not a promise of price, yield, dividends, or utility I don
 
 BscScan verified source is **not** an audit. I won't claim “Audited by ___.”
 
-This is **not** on Base. There is **no** second token.
+This is **not** on Base. There is **no** second token. **$LVRSE** is a name in whitepaper v1.8. It has no contract.
 
 Fund wallet: `0x859B0D91376A6bBF28B1F12F68E916e59708092F`
 
 ## Whitepaper
 
-**[LWRLD_whitepaper_v1.6.pdf](./LWRLD_whitepaper_v1.6.pdf)** — community whitepaper **v1.6**.
+**[LWRLD_whitepaper_v1.8.md](./LWRLD_whitepaper_v1.8.md)** — current paper, **v1.8** (18 October 2026).
 
-Also on Drive: https://drive.google.com/file/d/1TjrLGKwhWePanWTuiEoP7M-SCU0Ue-3g/view?usp=sharing
+$LVRSE has no contract. Half of profits are meant to be swapped to Bitcoin. None has been swapped. Bitcoin held is 0, so nothing is decided. Not financial advice.
+
+Previous draft: **[LWRLD_whitepaper_v1.6.pdf](./LWRLD_whitepaper_v1.6.pdf)**. Drive copy of that older PDF: https://drive.google.com/file/d/1TjrLGKwhWePanWTuiEoP7M-SCU0Ue-3g/view?usp=sharing
 
 ## Links
 
@@ -39,6 +41,7 @@ Also on Drive: https://drive.google.com/file/d/1TjrLGKwhWePanWTuiEoP7M-SCU0Ue-3g
 - **Telegram (official updates):** https://t.me/LathosWorldOfficial
 - **YouTube:** https://www.youtube.com/@lathos563
 - **Twitch:** https://www.twitch.tv/lathosworld
+- **TikTok:** https://www.tiktok.com/@lathos.world
 - **X:** https://x.com/lathos563
 - **Instagram:** https://www.instagram.com/lathosworld
 - **Discord:** https://discord.gg/749tHdsFU6
@@ -50,4 +53,4 @@ Lathos / Jared Allen Hooker Sr · GitHub: [Lathosminer](https://github.com/Latho
 
 ---
 
-Paper version stays **v1.6** until a real fact changes.
+Paper version is **v1.8**. The v1.6 PDF is the previous draft.
