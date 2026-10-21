@@ -22,15 +22,15 @@ Not financial advice. Not a promise of price, yield, dividends, or utility I don
 
 BscScan verified source is **not** an audit. I won't claim “Audited by ___.”
 
-This is **not** on Base. There is **no** second token. **$LVRSE** is a name in whitepaper v1.8. It has no contract.
+This is **not** on Base. There is **no** second token in the current paper.
 
 Fund wallet: `0x859B0D91376A6bBF28B1F12F68E916e59708092F`
 
 ## Whitepaper
 
-**[LWRLD_whitepaper_v1.8.md](./LWRLD_whitepaper_v1.8.md)** — current paper, **v1.8** (18 October 2026).
+**[LWRLD_whitepaper_v1.9.md](./LWRLD_whitepaper_v1.9.md)** — current paper, **v1.9** (21 October 2026).
 
-$LVRSE has no contract. Half of profits are meant to be swapped to Bitcoin. None has been swapped. Bitcoin held is 0, so nothing is decided. Not financial advice.
+The current paper does not describe unpublished work. Not financial advice.
 
 Previous draft: **[LWRLD_whitepaper_v1.6.pdf](./LWRLD_whitepaper_v1.6.pdf)**. Drive copy of that older PDF: https://drive.google.com/file/d/1TjrLGKwhWePanWTuiEoP7M-SCU0Ue-3g/view?usp=sharing
 
@@ -53,4 +53,4 @@ Lathos / Jared Allen Hooker Sr · GitHub: [Lathosminer](https://github.com/Latho
 
 ---
 
-Paper version is **v1.8**. The v1.6 PDF is the previous draft.
+Paper version is **v1.9**. The v1.6 PDF is an older draft.
